@@ -3,7 +3,7 @@
 Download:
 [dialogware_amd64.deb](https://download.dialogware.com/dialogware_amd64.deb)
 
-## Preapration to install Dialogware
+## Preparation to install Dialogware
 
 
 ```bash
