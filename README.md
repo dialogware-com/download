@@ -1,10 +1,13 @@
 # [download.dialogware.com](https://download.dialogware.com/)
 
-Download:
-[dialogware_amd64.deb](https://download.dialogware.com/dialogware_amd64.deb)
 
 ## Preparation to install Dialogware
 
+### Download Manual
+
++ [dialogware_amd64.deb](https://download.dialogware.com/dialogware_amd64.deb)
+
+### Download through console
 
 ```bash
 mkdir dialogware
