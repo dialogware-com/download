@@ -51,3 +51,7 @@ or check it:
 ```bash
 sudo dpkg -i dialogware_amd64.deb
 ```
+
+---
+
++ [edit](https://github.com/dialogware/download/edit/main/README.md)
